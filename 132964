@@ -1,0 +1,21 @@
+<Doctype html>
+<html>
+  <head>
+    <title>project</title>
+    <link rel="stylesheet" href="Style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="main">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Gallary </a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+      </div>
+      <div class="title">
+        <h1>ABOUT MYSELF</h1>
+      </div>
+    </header>
+  </body>
+</html>
